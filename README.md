@@ -3,6 +3,8 @@ Hi there! 👋
 
 I'm a passionate **PHP** and **MERN** stack developer with experience in building scalable and efficient web applications. I love exploring new technologies and improving my skills by building real-world projects. My journey in development has allowed me to dive deep into both frontend and backend technologies, and I enjoy creating well-optimized and secure solutions.
 
+![Aquila's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquilaishola&show_icons=true&theme=radical)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devaquila) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codewithaquila) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithaquila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@devaquila.xyz) 
