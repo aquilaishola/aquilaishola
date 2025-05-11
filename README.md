@@ -27,7 +27,7 @@ I'm a passionate **PHP** and **MERN** stack developer with experience in buildin
 [![](https://visitcount.itsvg.in/api?id=aquilaishola&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/aquilaishola) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aquilaishola) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
